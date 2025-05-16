@@ -6,8 +6,6 @@
 
 This Jupyter Notebook demonstrates an end-to-end pipeline for anomaly detection in EC2 log data using PySpark. It includes training/evaluation of three different anomaly detection models: Isolation Forest (via SynapseML), Local Outlier Factor (LOF via scikit-learn).
 
-Note: I've updated my presentation.pdf to include updated results based on multiple runs of my code to provide latest results.
-
 ## Prerequisites
 
 Before running this notebook, ensure you have the following installed and configured:
